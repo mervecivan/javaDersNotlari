@@ -1,0 +1,10 @@
+package inheritanceExample;
+
+public class engineer extends insan{
+	int salary;
+	
+	int zam() {
+	salary++;
+	return salary;
+	}
+}

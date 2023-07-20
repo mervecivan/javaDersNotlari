@@ -1,0 +1,10 @@
+package inheritanceDemoo;
+
+public class Main {
+
+	public static void main(String[] args) {
+		 OgretmenKrediManager ogretmen= new OgretmenKrediManager();
+		 ogretmen.Hesapla();
+	}
+
+}
